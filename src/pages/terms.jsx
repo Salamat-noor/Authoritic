@@ -15,12 +15,13 @@ const Terms = () => {
           <h4>Terms and Services</h4>
           <h4>Introduction</h4>
           <p>
-            Welcome to Authentic Creations ("we," "our," or "us"). These Terms
-            and Services ("Terms") govern your use of our website, app, and any
-            related services provided by Authentic Creations (collectively, the
-            "Service"). By accessing or using the Service, you agree to be bound
-            by these Terms. If you do not agree to these Terms, please do not
-            use the Service.
+            Welcome to Authentic Creations (&quot;we,&quot; &quot;our,&quot; or
+            &quot;us&quot;). These Terms and Services (&quot;Terms&quot;) govern
+            your use of our website, app, and any related services provided by
+            Authentic Creations (collectively, the &quot;Service&quot;). By
+            accessing or using the Service, you agree to be bound by these
+            Terms. If you do not agree to these Terms, please do not use the
+            Service.
           </p>
           <h4>1. User Accounts</h4>
           <p>

@@ -86,17 +86,8 @@ function CodeRegisteration() {
             }}
           />
 
-          {avatarPreview && (
-            <Avatar
-              src={avatarPreview}
-              alt="Avatar Preview"
-              className="mr-4"
-              sx={{ width: 80, height: 40 }}
-            />
-          )}
-
           <Button className="flex m-4 text-black">
-            <Image src={Icon} />
+            <Image src={Icon} alt="icon" />
             <p className="font-DMSans">Brand logo</p>
           </Button>
 

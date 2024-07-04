@@ -27,7 +27,7 @@ const About = () => {
             know that people love owning things, we love to express ourselves,
             it is in our nature. But our consumer habits have become unethical.
             We dont think its reasonable to ask you to stop owning things, but
-            we can hope and dream that you’ll own only good things.
+            we can hope and dream that you&apos;ll own only good things.
           </p>
           <br />
           <p>
