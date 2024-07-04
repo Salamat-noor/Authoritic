@@ -54,10 +54,10 @@ const About = () => {
             originality and the hard work that goes into each unique piece.
             Having a centralized system for certificates of authenticity
             guarantees that the products you purchase are authentic, preserving
-            the integrity of our artists' work and discouraging counterfeiters.
-            If you buy a second hand product that you believe comes from one of
-            our partnered vendors, always ask for the Oizter certificate to make
-            sure that it is original!
+            the integrity of our artists&apos; work and discouraging
+            counterfeiters. If you buy a second hand product that you believe
+            comes from one of our partnered vendors, always ask for the Oizter
+            certificate to make sure that it is original!
           </p>
           <p>
             3. Encourage Value-Driven Purchases: In a world dominated by fast
